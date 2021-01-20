@@ -1,4 +1,4 @@
-# Social-Geek
+# Socio-Geek
 A multipurpose social media using MERN
 
 1.Clone the server and client branches.
